@@ -28,7 +28,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: longvunduc/cicd2024/a
+          tags: longvunduc/cicd2024:staging
 
 
   pull-and-up:
